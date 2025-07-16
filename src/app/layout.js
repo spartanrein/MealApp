@@ -1,7 +1,7 @@
 import { GeistSans } from "geist/font/sans";
 import { GeistMono } from "geist/font/mono";
 import "./globals.css";
-import MainHeader from "./components/main-header";
+import MainHeader from "./components/main-header/main-header";
 
 export const metadata = {
   title: "NextLevel Food",
